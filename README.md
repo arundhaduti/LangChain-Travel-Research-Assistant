@@ -121,7 +121,3 @@ plans=[...]
 ## License
 
 MIT
-
----
-
-Happy Building! 🚀
